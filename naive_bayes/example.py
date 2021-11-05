@@ -51,6 +51,6 @@ y_out = model.predict(x_test)
 #y_out = model.predict(x_train)
 
 #%%
-print('Testing Accuracy: ', model.score(x_test, y_test))
+print('Testing Accuracy:', model.score(x_test, y_test))
 #print('Training Accuracy: ', model.score(x_train, y_train))
 
