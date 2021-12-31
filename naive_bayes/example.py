@@ -20,7 +20,6 @@ df = pd.read_csv('golf_df.csv')
 
 print(df.head())
 
-
 print(df.info())
 
 df = df.apply(lambda x : x.astype('category'))
