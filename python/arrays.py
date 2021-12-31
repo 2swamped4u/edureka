@@ -3,7 +3,7 @@
 """
 Created on Sun Oct 31 06:20:17 2021
 
-@author: javier
+@author: Santa
 """
 
 import array as arr
