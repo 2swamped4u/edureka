@@ -11,7 +11,7 @@ public class Demo {
         System.out.println("Please enter any integer: ");
         num = sc.nextInt();
 
-        while (num <= 10) {
+        while (num <= 10000) {
             sum = sum + num;
             num++;
         }

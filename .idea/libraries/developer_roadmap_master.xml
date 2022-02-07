@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="developer-roadmap-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/roadmap/developer-roadmap-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
