@@ -3,7 +3,7 @@
 """
 Created on Sun Oct 31 06:20:17 2021
 
-@author: Santa
+@author: Javier
 """
 
 import array as arr
@@ -16,3 +16,4 @@ print("Array b = ", b)
 c = arr.array('d', [1.1, 2.1, 3.1])
 c.insert(2, 3.4)
 print("Arrays c = ", c)
+
